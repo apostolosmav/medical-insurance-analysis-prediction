@@ -38,7 +38,7 @@ The project combines **exploratory data analysis (EDA)**, **statistical modeling
    - Dynamic visualizations show predicted charges versus BMI or Age.  
    - Side-by-side comparison of **smoker vs non-smoker** charges for the same parameters.
 
-4. ## **Presentation**
+## **Presentation**
 
 - [View Presentation (PDF)](Medical_Insurance_Prediction_Presentation.pdf)  
 - [Download Presentation (PPTX)](Medical_Insurance_Prediction_Presentation-2.pptx)
