@@ -40,7 +40,7 @@ The project combines **exploratory data analysis (EDA)**, **statistical modeling
 
 4. ## **Presentation**
 
-- [View Presentation (PDF)](presentation/Medical_Insurance_Prediction_Presentation.pdf)  
+- [View Presentation (PDF)](Medical_Insurance_Prediction_Presentation.pdf)  
 - [Download Presentation (PPTX)](presentation/Medical_Insurance_Prediction_Presentation.pptx)
 
 
