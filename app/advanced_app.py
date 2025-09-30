@@ -6,10 +6,10 @@ import seaborn as sns
 import pickle as pcl
 
 # --- Load Dataset ---
-df = pd.read_csv('insurance.csv')
+df = pd.read_csv('data/raw/insurance.csv')
 
 # --- Load Model ---
-with open('Training_insurance.dat','rb') as file:
+with open('data/raw/Training_insurance.dat','rb') as file:
     best_model = pcl.load(file)
 
 # --- Sidebar Navigation ---
