@@ -36,7 +36,13 @@ The project combines **exploratory data analysis (EDA)**, **statistical modeling
 3. **Streamlit Interactive App**  
    - Users can input personal information (age, BMI, children, smoker status, gender, region) to predict insurance charges.  
    - Dynamic visualizations show predicted charges versus BMI or Age.  
-   - Side-by-side comparison of **smoker vs non-smoker** charges for the same parameters.  
+   - Side-by-side comparison of **smoker vs non-smoker** charges for the same parameters.
+
+4. ## **Presentation**
+
+- [View Presentation (PDF)](presentation/Medical_Insurance_Prediction_Presentation.pdf)  
+- [Download Presentation (PPTX)](presentation/Medical_Insurance_Prediction_Presentation.pptx)
+
 
 ---
 
