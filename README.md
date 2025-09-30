@@ -45,5 +45,5 @@ The project combines **exploratory data analysis (EDA)**, **statistical modeling
 ### 1. Clone the repository:
 
 ```bash
-git clone <YOUR_REPO_LINK>
+git clone https://github.com/apostolosmav/medical-insurance-analysis-prediction
 cd insurance-charges-prediction
