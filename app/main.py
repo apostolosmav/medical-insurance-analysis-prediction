@@ -3,9 +3,8 @@ import pandas as pd
 import os
 import streamlit as st
 
-DATAPATH = os.path.join(os.path.dirname(__file__),'Training_insurance.dat')
 try :
-    with open(DATAPATH,'rb') as file:
+    with open('data/raw/Training_insurance.dat','rb') as file:
         best_model =  pcl.load(file)
 except Exception as e:
      st.error(f"Datei konnte nicht geladen werden: {e}")
@@ -40,3 +39,4 @@ if st.button("Kosten berechnen"):
         st.success(f"Geschätzte Kosten: {prediction:.2f} $")
     else:
         st.error("Kein Modell geladen.")
+
